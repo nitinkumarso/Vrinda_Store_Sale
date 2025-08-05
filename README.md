@@ -1,4 +1,4 @@
-# Vrinda_Store_Sale
+
 # 📊 Vrinda Store Dashboard Project
 
 ## 📝 Project Description
